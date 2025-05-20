@@ -59,15 +59,14 @@ def education_page():
     st.markdown("## Academic Projects")
     
     st.markdown("""
-    ### Sentiment Analysis of Product Reviews
-    - Developed a deep learning model to analyze customer reviews and predict sentiment
-    - Achieved 92% accuracy using BERT and fine-tuning techniques
-    - Implemented the model as a web application using Flask
+    ### Giant Panda Promotion Strategy for Ocean Park Hong Kong
+    - Acted as a consultant in a team project to develop a promotional strategy for Ocean Park Hong Kong's giant pandas
+    - Proposed a giant panda - themed variety show targeting mainland Chinese audiences
+    - Conducted in - depth analysis of mainland Chinese perceptions of Ocean Park's giant pandas and their expectations for giant panda variety shows
+    - Delivered a feasible plan that was well - received and approved by Ocean Park Hong Kong
     
-    ### Image Classification for Medical Diagnosis
-    - Created a convolutional neural network to classify medical images
-    - Worked with a dataset of X-ray images to detect pneumonia
-    - Achieved 88% accuracy and deployed the model on a cloud platform
+    ### Image ClassiThe Choice of Mobile Platforms for Apparel Brand Promotion
+    - Provided a methodology and guideline for the strategy of new media platform selection in brand promotion for apparel enterprises
     """)
     
     st.markdown("---") 
