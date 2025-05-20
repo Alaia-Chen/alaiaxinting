@@ -10,7 +10,7 @@ def home_page():
         <p>Recent Master's Graduate in Marketing<br>
         Chinese University of Hong Kong<br>
         12 Chak Cheung St., Ma Liu Shui, HKSAR<br>
-        <a href="mailto:sarah.johnson@example.com">sarah.johnson@example.com</a></p>
+        <a href="mailto:alaiachen0703@gmail.com">alaiachen0703@gmail.com</a></p>
         """,
         unsafe_allow_html=True
     )
@@ -28,11 +28,9 @@ def home_page():
     st.markdown(
         """
         ### About Me
-        I am a recent master's graduate in Data Science from the University of XYZ, eager to apply my knowledge and skills in a professional setting. During my academic journey, I developed a strong foundation in statistical analysis, machine learning, and data visualization.
+        Marketing specialist with experience across FMCG, fashion, and e-commerce, currently pursuing a Master’s in Marketing at The Chinese University of Hong Kong. I have a strong background in brand strategy, market research, data analytics, and product planning, with a proven track record of driving sales growth and optimizing brand positioning. I am passionate about leveraging data-driven insights to create impactful marketing strategies and staying ahead of consumer trends. 
 
-        As part of my master's program, I completed several projects that involved working with real-world datasets and applying various data science techniques. These projects allowed me to gain hands-on experience in data preprocessing, exploratory data analysis, model building, and evaluation.
-
-        I am passionate about leveraging data to drive insights and make informed decisions. I am a quick learner, a collaborative team player, and possess strong problem-solving skills. I am excited to contribute my skills and grow as a data science professional in a dynamic and challenging environment.
+        Particularly interested in fashion, beauty, and lifestyle industries, I am actively seeking internship and job opportunities. Happy to connect and exchange ideas!
         """
     )
 
@@ -42,10 +40,11 @@ def home_page():
         - Programming Languages: Python, R
         - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
         - Machine Learning: Scikit-learn, TensorFlow, Keras
-        - Database: SQL, MongoDB
         - Data Visualization: Tableau, Power BI
         - Statistical Analysis: Hypothesis Testing, Regression Analysis
+        - MS Office software：PowerPoint, Excel(VLOOKUP & Pivot Table), Outllok
         - Communication: Presentation Skills, Technical Writing
+        - Languages: Mandarin (Native), English (Fluent), Cantonese (Basic)
         """
     )
 
