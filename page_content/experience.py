@@ -5,7 +5,7 @@ def experience_page():
     
     st.markdown("""
     ### Marchandising Intern (Fashion Planning Department)
-    **DFS(LVMH Group)** | *May. 2025 - Now*
+    **DFS Group** | *May. 2025 - Present*
     
     - Analyzed customer data to identify patterns and trends using Python and SQL
     - Developed a machine learning model to predict customer churn with 85% accuracy
