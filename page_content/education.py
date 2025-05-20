@@ -16,6 +16,12 @@ def education_page():
     - GPA: 3.5/4.0
     - Core Courses: Multimedia Application System Technology, Fashion Industry, Applied Management, Fashion Market Research, Methods and Application of Data Analysis, Advanced Mathematics
     - Honor: Academic Excellence Award (2018), DHU Exchange Student Scholarship (2020)
+
+    ### Exchange Program in Fashion Marketing
+    **Fu Jen Catholic University** | *Sep. 2019 - Jan. 2020*
+    
+    - GPA: 92/100
+    - Core Courses: Social Psychology of Dress, Fashion Store Management, Strategic Fashion Brand Management, Apparel Logistics and Management
     """)
     
     st.markdown("---")
