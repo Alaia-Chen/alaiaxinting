@@ -1,11 +1,11 @@
 import streamlit as st
 
 def experience_page():
-    st.markdown("## Professional Experience")
+    st.markdown("## Work Experience")
     
     st.markdown("""
-    ### Data Science Intern
-    **TechCorp Inc.** | *June 2021 - August 2021*
+    ### Marchandising Intern (Fashion Planning Department)
+    **DFS(LVMH Group)** | *May. 2025 - Now*
     
     - Analyzed customer data to identify patterns and trends using Python and SQL
     - Developed a machine learning model to predict customer churn with 85% accuracy
