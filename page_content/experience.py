@@ -4,8 +4,8 @@ def experience_page():
     st.markdown("## Work Experience")
     
     st.markdown("""
-    ### Marchandising Intern (Fashion Planning Department)
-    **DFS Group** | *May. 2025 - Present*
+    ### Marchandising Intern
+    **DFS Group, Department of Fashion Planning ** | *May 2025 - Present*
     
     - Analyzed customer data to identify patterns and trends using Python and SQL
     - Developed a machine learning model to predict customer churn with 85% accuracy
@@ -14,23 +14,29 @@ def experience_page():
     """)
     
     st.markdown("""
-    ### Research Assistant
-    **University of XYZ, Department of Computer Science** | *January 2021 - May 2021*
+    ### Junior Brand Manager
+    **PepsiCo Inc (Fuzhou Branch)** | *May 2022 - Jul. 2023*
     
-    - Assisted professor with research on natural language processing techniques
-    - Implemented and evaluated various machine learning algorithms for text classification
-    - Co-authored a paper that was accepted at a regional computer science conference
-    - Mentored undergraduate students on research methodologies and programming
+    - Responsible for strategic branding, sales analysis,  inventory tracking, and new product launch planning for multiple non-carbonated beverage brands such as energy drinks (Gatorade) and fruit juices (Tropicana)
+    - Communicated with sales managers, identified the factors influencing sales, developed targeted strategies; conducted market research on competitors; organized promotional activities
+    - Achieved an average sales attainment rate exceeding 105% across all non-carbonated beverage brands, with Aquafina (bottled water) surging 65% and Gatorade growing 34% year-over-year
     """)
     
     st.markdown("""
-    ### Software Development Intern
-    **InnovateTech Solutions** | *May 2020 - August 2020*
+    ### Product Planning Trainee
+    **Xtep Co., Footwear Division** | *Jul. 2021 - Jan. 2022*
     
-    - Developed and maintained web applications using Django and React
-    - Collaborated with a team of developers using Agile methodologies
-    - Implemented new features based on user feedback and requirements
-    - Participated in code reviews and testing procedures
+    - Conducted market research & data analysis to determine product positioning, identifying opportunities for growth; drafted business plans
+    - Coordinated product training for seasonal buying sessions through cross-departmental collaboration, while implementing visual merchandising strategies to elevate display impact and drive wholesale buyers’ engagement
+    - Devised product storytelling, collaborated with designers on new product designs (140-150 per year);  highest single-item sales volume: 2,800 pairs (a limited edition for Chinese Valentine’s Day)
+    """)
+    
+    st.markdown("""
+    ### Operation Intern
+    **Poizon, Department of Promotion & Event** | *Mar. 2021 - May 2021*
+    
+    - Built 120 online sports apparel event venues (categorized by clothing type), created 270 themes and rankings, achieved a maximum conversion rate of 2.7%
+    - Responsible for clothing category selection, applied data analysis tools such as Excel functions like Pivot Table and VLOOKUP for quantitative analysis
     """)
     
     st.markdown("---")
