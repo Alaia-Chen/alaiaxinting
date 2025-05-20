@@ -4,19 +4,25 @@ def education_page():
     st.markdown("## Education")
     
     st.markdown("""
-    ### Master of Science in Data Science
-    **University of XYZ** | *September 2020 - May 2022*
+    ### Master of Science in Marketing
+    **The Chinese University of Hong Kong** | *Aug. 2024 - Jul. 2025*
     
-    - GPA: 3.9/4.0
-    - Thesis: "Applying Machine Learning Techniques to Predict Customer Behavior in E-commerce"
-    - Relevant Coursework: Advanced Machine Learning, Deep Learning, Natural Language Processing, Data Visualization, Statistical Methods for Data Science, Big Data Analytics
+    - GPA: 3.6/4.0
+    - Core Courses: ·Marketing Management, Marketing Research, Digital Marketing, Big Data Strategy, Marketing Analytics, Customer Analytics, Social Media Analytics, Machine Learning in Marketing
     
-    ### Bachelor of Science in Computer Science
-    **ABC University** | *September 2016 - May 2020*
+    ### Bachelor of Engineering in Fashion Design and Engineering
+    **Donghua University** | *Sep. 2017 - Jun. 2021*
     
-    - GPA: 3.7/4.0
-    - Graduated with Honors
-    - Relevant Coursework: Algorithms and Data Structures, Database Systems, Computer Networks, Operating Systems, Software Engineering, Web Development
+    - GPA: 3.5/4.0
+    - Core Courses: Multimedia Application System Technology, Fashion Industry, Applied Management, Fashion Market Research, Methods and Application of Data Analysis, Advanced Mathematics
+    - Honor: Academic Excellence Award (2018), DHU Exchange Student Scholarship (2020)
+    """)
+
+    ### Exchange Program in Fashion Marketing
+    **Fu Jen Catholic University** | *Sep. 2019 - Jan. 2020*
+    
+    - GPA: 92/100
+    - Core Courses: Management, Social Psychology of Dress, Fashion Store Management, Strategic Fashion Brand Management, Apparel Logistics and Management
     """)
     
     st.markdown("---")
