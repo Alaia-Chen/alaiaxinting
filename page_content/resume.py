@@ -41,11 +41,13 @@ def resume_page():
     - Liaise with Vendor for product Master Data collection, ensuring data quality is compliant with company standards
     - Execute Article listing & delisting by location in SAP, as communicated by the Merchandising group
     - Confirm successful transmission of DFS Purchase Order to external Partners
+    
     **Junior Brand Manager, PepsiCo Inc**
     - *May 2022 - Jul. 2023*
     - Responsible for strategic branding, sales analysis,  inventory tracking, and new product launch planning for multiple non-carbonated beverage brands such as energy drinks (Gatorade) and fruit juices (Tropicana)
     - Communicated with sales managers, identified the factors influencing sales, developed targeted strategies; conducted market research on competitors; organized promotional activities
     - Achieved an average sales attainment rate exceeding 105% across all non-carbonated beverage brands, with Aquafina (bottled water) surging 65% and Gatorade growing 34% year-over-year
+    
     **Product Planning Trainee, Xtep Co.**
     - *Jul. 2021 - Jan. 2022*
     - Conducted market research & data analysis to determine product positioning, identifying opportunities for growth; drafted business plans
