@@ -10,7 +10,7 @@ def experience_page():
     - Review all Master Data to ensure compliance with company standards, upon registering products in DFS
     - Liaise with Vendor for product Master Data collection, ensuring data quality is compliant with company standards
     - Execute Article listing & delisting by location in SAP, as communicated by the Merchandising group
-    -  Confirm successful transmission of DFS Purchase Order to external Partners
+    - Confirm successful transmission of DFS Purchase Order to external Partners
     """)
     
     st.markdown("""
