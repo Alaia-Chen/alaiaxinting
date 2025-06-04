@@ -7,10 +7,10 @@ def experience_page():
     ### Marchandising Intern
     **DFS Group, Department of Fashion Planning ** | *May 2025 - Present*
     
-    - Analyzed customer data to identify patterns and trends using Python and SQL
-    - Developed a machine learning model to predict customer churn with 85% accuracy
-    - Created interactive dashboards using Tableau to visualize key performance indicators
-    - Presented findings and recommendations to senior management
+    - Review all Master Data to ensure compliance with company standards, upon registering products in DFS
+    - Liaise with Vendor for product Master Data collection, ensuring data quality is compliant with company standards
+    - Execute Article listing & delisting by location in SAP, as communicated by the Merchandising group
+    -  Confirm successful transmission of DFS Purchase Order to external Partners
     """)
     
     st.markdown("""
