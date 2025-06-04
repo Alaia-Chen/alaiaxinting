@@ -9,7 +9,7 @@ def home_page():
         <h4>Alaia Chen</h4>
         <p>Recent Master's Graduate in Marketing<br>
         Chinese University of Hong Kong<br>
-        12 Chak Cheung St., Ma Liu Shui, HKSAR<br>
+        KAK TIN STREET, SHATIN, NEW TERRITORIES, HK<br>
         <a href="mailto:alaiachen0703@gmail.com">alaiachen0703@gmail.com</a></p>
         """,
         unsafe_allow_html=True
