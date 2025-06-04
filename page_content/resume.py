@@ -17,44 +17,48 @@ def resume_page():
     else:
         st.warning("Resume PDF file not found")
 
-    st.title("Jane Doe")
+    st.title("Alaia Chen")
 
     st.header("Contact Information")
     st.markdown("""
-    - **Email:** jane.doe@example.com
-    - **Phone:** (123) 456-7890
-    - **LinkedIn:** [linkedin.com/in/janedoe](https://linkedin.com/in/janedoe)
-    - **GitHub:** [github.com/janedoe](https://github.com/janedoe)
-    - **Address:** 123 Main St, Anytown, USA
+    - **Email:** alaiachen0703@gmail.com
+    - **Phone:** (852) 5957 3793
+    - **LinkedIn:** [linkedin.com/in/xinting-chen-0741a832b](https://linkedin.com/in/xinting-chen-0741a832b)
+    - **GitHub:** [github.com/Alaia-Chen](https://github.com/Alaia-Chen)
+    - **Address:** KAK TIN STREET, SHATIN, NEW TERRITORIES
     """)
 
     st.header("Professional Summary")
     st.markdown("""
-    Highly skilled software engineer with over 5 years of experience in developing scalable web applications. Proven ability to lead teams, manage projects, and improve software performance. Seeking a challenging role to utilize my technical expertise and problem-solving skills.
+    Marketing specialist with experience across FMCG, fashion, and e-commerce, currently pursuing a Master’s in Marketing at The Chinese University of Hong Kong. I have a strong background in brand strategy, market research, data analytics, and product planning, with a proven track record of driving sales growth and optimizing brand positioning. I am passionate about leveraging data-driven insights to create impactful marketing strategies and staying ahead of consumer trends. 
     """)
 
     st.header("Work Experience")
     st.markdown("""
-    **Software Engineer, TechCorp Inc.**
-    - *June 2019 – Present*
-    - Developed and maintained web applications using Python and JavaScript.
-    - Improved application performance by 30% through code optimization.
-    - Led a team of 5 developers, conducting code reviews and mentoring junior engineers.
-    - Collaborated with cross-functional teams to define project requirements and deliverables.
-
-    **Junior Software Developer, WebSolutions LLC**
-    - *January 2017 – May 2019*
-    - Assisted in the development of client-side applications using HTML, CSS, and JavaScript.
-    - Participated in agile sprints and contributed to project planning and task estimation.
-    - Implemented unit tests and conducted debugging to ensure code quality.
+    **Marchandising Intern, DFS Group**
+    - *May 2025 - Present*
+    - Review all Master Data to ensure compliance with company standards, upon registering products in DFS
+    - Liaise with Vendor for product Master Data collection, ensuring data quality is compliant with company standards
+    - Execute Article listing & delisting by location in SAP, as communicated by the Merchandising group
+    - Confirm successful transmission of DFS Purchase Order to external Partners
+    **Junior Brand Manager, PepsiCo Inc**
+    - *May 2022 - Jul. 2023*
+    - Responsible for strategic branding, sales analysis,  inventory tracking, and new product launch planning for multiple non-carbonated beverage brands such as energy drinks (Gatorade) and fruit juices (Tropicana)
+    - Communicated with sales managers, identified the factors influencing sales, developed targeted strategies; conducted market research on competitors; organized promotional activities
+    - Achieved an average sales attainment rate exceeding 105% across all non-carbonated beverage brands, with Aquafina (bottled water) surging 65% and Gatorade growing 34% year-over-year
+    **Product Planning Trainee, Xtep Co.**
+    - *Jul. 2021 - Jan. 2022*
+    - Conducted market research & data analysis to determine product positioning, identifying opportunities for growth; drafted business plans
+    - Coordinated product training for seasonal buying sessions through cross-departmental collaboration, while implementing visual merchandising strategies to elevate display impact and drive wholesale buyers’ engagement
+    - Devised product storytelling, collaborated with designers on new product designs (140-150 per year);  highest single-item sales volume: 2,800 pairs (a limited edition for Chinese Valentine’s Day)
     """)
 
     st.header("Education")
     st.markdown("""
-    **Bachelor of Science in Computer Science**
-    - University of Anytown
-    - *Graduated: May 2016*
-    - GPA: 3.8/4.0
+    **Master of Science in Marketing**
+    - The Chinese University of Hong Kong
+    - *Graduated: July 2025*
+    - GPA: 3.6/4.0
     """)
 
     st.header("Skills")
@@ -66,34 +70,18 @@ def resume_page():
     - **Soft Skills:** Team Leadership, Project Management, Problem-Solving, Communication
     """)
 
-    st.header("Certifications")
-    st.markdown("""
-    - AWS Certified Solutions Architect
-    - Certified Scrum Master
-    """)
-
-    st.header("Projects")
-    st.markdown("""
-    **E-commerce Website**
-    - Developed a full-stack e-commerce application using React and Django.
-    - Integrated payment gateways and implemented user authentication.
-
-    **Data Analysis Tool**
-    - Created a Python-based tool for analyzing large datasets and visualizing results.
-    - Used pandas and matplotlib libraries for data manipulation and plotting.
-    """)
-
     st.header("Languages")
     st.markdown("""
-    - **English:** Native
-    - **Spanish:** Intermediate
+    - **Mandarin:** Native
+    - **English:** Fluent
+    - **Cantonese:** Basic
     """)
 
     st.header("Interests")
     st.markdown("""
-    - Open-source contributions
-    - Blogging about technology trends
-    - Hiking and outdoor activities
+    - Citywalk
+    - Photography
+    - Outdoor activities
     """)
 
     st.markdown("---") 
