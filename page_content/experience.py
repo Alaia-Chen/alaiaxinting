@@ -65,8 +65,8 @@ def experience_page():
         - **Time Management:** Efficient at prioritizing tasks and meeting deadlines
         - **Leadership:** Experience leading small teams and mentoring junior colleagues
         - **Adaptability:** Quick learner who thrives in dynamic environments
-        - **MS Office software：PowerPoint, Excel(VLOOKUP & Pivot Table), Outllok
-        - **Languages: Mandarin (Native), English (Fluent), Cantonese (Basic)
+        - **MS Office software:** PowerPoint, Excel(VLOOKUP & Pivot Table), Outllok
+        - **Languages:** Mandarin (Native), English (Fluent), Cantonese (Basic)
         """)
     
     st.markdown("---")
