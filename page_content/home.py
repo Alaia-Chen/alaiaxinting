@@ -42,7 +42,7 @@ def home_page():
         - Machine Learning: Scikit-learn, TensorFlow, Keras
         - Data Visualization: Tableau, Power BI
         - Statistical Analysis: Hypothesis Testing, Regression Analysis
-        - MS Office software：PowerPoint, Excel(VLOOKUP & Pivot Table), Outllok
+        - MS Office software: PowerPoint, Excel(VLOOKUP & Pivot Table), Outllok
         - Communication: Presentation Skills, Technical Writing
         - Languages: Mandarin (Native), English (Fluent), Cantonese (Basic)
         """
