@@ -41,42 +41,6 @@ def experience_page():
     
     st.markdown("---")
     
-    st.markdown("## Projects")
-    
-    projects = [
-        {
-            "title": "Customer Segmentation Analysis",
-            "description": "Used K-means clustering to segment customers based on purchasing behavior.",
-            "skills": ["Python", "scikit-learn", "Pandas", "Matplotlib"],
-            "outcome": "Identified 5 distinct customer segments that informed targeted marketing campaigns."
-        },
-        {
-            "title": "Predictive Maintenance System",
-            "description": "Developed a model to predict equipment failures before they occur.",
-            "skills": ["Python", "TensorFlow", "Time Series Analysis", "IoT"],
-            "outcome": "Reduced downtime by 23% and maintenance costs by 15%."
-        },
-        {
-            "title": "Natural Language Processing for Customer Support",
-            "description": "Created a text classification system to automatically categorize customer support tickets.",
-            "skills": ["Python", "NLTK", "spaCy", "BERT"],
-            "outcome": "Improved response time by 35% and increased customer satisfaction scores."
-        }
-    ]
-    
-    for i, project in enumerate(projects):
-        with st.expander(f"{project['title']}", expanded=i==0):
-            st.markdown(f"**Description:** {project['description']}")
-            st.markdown(f"**Skills Used:** {', '.join(project['skills'])}")
-            st.markdown(f"**Outcome:** {project['outcome']}")
-    
-    # 移除交互式图表部分
-    st.markdown("---")
-    
-    st.markdown("## Professional Skills")
-    
-    col1, col2 = st.columns(2)
-    
     with col1:
         st.markdown("""
         ### Technical Skills
