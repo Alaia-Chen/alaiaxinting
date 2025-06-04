@@ -54,7 +54,7 @@ def experience_page():
         
     with col2:
         st.markdown("""
-        ### Soft Skills
+        ### Other Skills
         - **Communication:** Excellent written and verbal communication
         - **Teamwork:** Collaborative team player with experience in Agile environments
         - **Problem-solving:** Strong analytical and critical thinking abilities
