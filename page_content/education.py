@@ -26,36 +26,6 @@ def education_page():
     
     st.markdown("---")
     
-    st.markdown("## Certifications")
-    
-    cert1, cert2, cert3 = st.columns(3)
-    
-    with cert1:
-        st.markdown("""
-        ### AWS Certified Data Analytics - Specialty
-        **Amazon Web Services** | *March 2022*
-        
-        Demonstrated expertise in designing, building, securing, and maintaining analytics solutions on AWS.
-        """)
-        
-    with cert2:
-        st.markdown("""
-        ### TensorFlow Developer Certificate
-        **Google** | *January 2022*
-        
-        Validated ability to develop deep learning models using TensorFlow.
-        """)
-        
-    with cert3:
-        st.markdown("""
-        ### Microsoft Certified: Azure Data Scientist Associate
-        **Microsoft** | *November 2021*
-        
-        Demonstrated expertise in using Azure services to train, evaluate, and deploy machine learning models.
-        """)
-    
-    st.markdown("---")
-    
     st.markdown("## Academic Projects")
     
     st.markdown("""
@@ -65,7 +35,7 @@ def education_page():
     - Conducted in - depth analysis of mainland Chinese perceptions of Ocean Park's giant pandas and their expectations for giant panda variety shows
     - Delivered a feasible plan that was well - received and approved by Ocean Park Hong Kong
     
-    ### Image ClassiThe Choice of Mobile Platforms for Apparel Brand Promotion
+    ### The Choice of Mobile Platforms for Apparel Brand Promotion
     - Provided a methodology and guideline for the strategy of new media platform selection in brand promotion for apparel enterprises
     """)
     
