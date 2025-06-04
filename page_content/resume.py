@@ -61,6 +61,11 @@ def resume_page():
     - The Chinese University of Hong Kong
     - *Graduated: July 2025*
     - GPA: 3.6/4.0
+
+    **Bachelor of Engineering in Fashion Design and Engineering**
+    - Donghua University
+    - *Graduated: June 2021*
+    - GPA: 3.5/4.0
     """)
 
     st.header("Skills")
